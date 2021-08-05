@@ -2,6 +2,6 @@
 
 Exercise files for:
 
-* Object Oriented PHP & MVC (Udemy)
+* _Object Oriented PHP & MVC_ (Udemy)
 
-* PHP Front to Back (YouTube)
+* _PHP Front to Back_ (YouTube)
